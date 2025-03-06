@@ -1,0 +1,14 @@
+{
+    "carousel_images": [
+        {
+            "img": "图片1.png",
+            "note": "1",
+            "target": {
+                "appid": "1",
+                "page": "1",
+                "type": "wxxcx"
+            }
+        }
+    ],
+    "sections": []
+}
